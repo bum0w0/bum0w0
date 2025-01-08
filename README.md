@@ -17,10 +17,3 @@
 <br>
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <br>
-
-
-
-
-#### 📚 Activities
-- 한림대학교 멋쟁이사자처럼 11기 아기사자 (2023.03 ~ 2023.12)
-- kakao x goorm DEEP DIVE 백엔드 과정 2회차 (2024.11 ~ 2025.06)
