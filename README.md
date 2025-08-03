@@ -10,3 +10,20 @@
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 <br>
+<br>
+
+
+
+
+### study
+
+| 강의 제목                                                                                      | 날짜             |
+|------------------------------------------------------------------------------------------------|------------------|
+| [Spring Cloud로 개발하는 MSA](https://github.com/bum0w0/spring-cloud-msa-study)               | 25.08.02 ~  |
+| [Nginx 입문 / 실전 강의 실습](https://bum0w0.tistory.com/category/Study%20Notes/Nginx)        | 25.07.25 ~ 25.08.01 |
+| [실전 Querydsl 강의 실습](https://github.com/bum0w0/spring-query-dsl-study)                   | 25.06.26 ~ 25.07.25 |
+| [실전 스프링 데이터 JPA 강의 실습](https://github.com/bum0w0/spring-data-jpa-study-2025)      | 25.05.12 ~ 25.06.18 |
+| [실전 스프링 부트와 JPA 활용 강의 실습](https://github.com/bum0w0/spring-jpa-study-2025)      | 25.04.09 ~ 25.05.07 |
+| [스프링 MVC - 백엔드 웹 개발 핵심 기술 실습 (2)](https://github.com/bum0w0/Spring-MVC)         | 24.08.19 ~ 24.08.24 |
+| [스프링 MVC - 백엔드 웹 개발 핵심 기술 실습 (1)](https://github.com/bum0w0/Spring-Servlet)     | 24.08.08 ~ 24.08.18 |
+| [스프링 핵심 원리 - 기본편 실습](https://github.com/bum0w0/Spring-Core)                        | 24.07.14 ~ 24.08.07 |
