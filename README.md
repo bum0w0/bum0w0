@@ -9,8 +9,8 @@
 
 |Project|Description|Team||
 |------|---|---|---|
-|[WELKIT](https://github.com/WELKIT)|신입사원 맞춤 온보딩 키트||2025.08.01~|
-|[SimHae](https://github.com/Team-Smeme/Smeme-server-renewal)|꿈으로 무의식을 의식화 하다|구름톤 4기|2023.01 -|
+|[WELKIT](https://github.com/WELKIT)|신입사원 맞춤 온보딩 서비스|WellMakers|2025.08.01 ~ |
+|[심해 心解](https://github.com/bum0w0/2025_SEASONTHON_TEAM_38_BE_1)|꿈 해몽 및 분석 서비스|구름톤 4기 38TEAM|2025.08.29 ~ |
 
 
 <br>
