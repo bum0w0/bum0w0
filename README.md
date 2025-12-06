@@ -9,8 +9,9 @@
 
 |Project|Description|Team||
 |------|---|---|---|
+|[sou.zip](https://github.com/souzip/souzip-api)|여행 기념품 추천 플랫폼|스위프 앱 3기|2025.11.26 ~ |
+|[심해 心解](https://github.com/bum0w0/2025_SEASONTHON_TEAM_38_BE_1)|꿈 해몽 및 분석 서비스|구름톤 유니브 4기|2025.08.29 ~ |
 |[WELKIT](https://github.com/WELKIT)|신입사원 맞춤 온보딩 서비스|WellMakers|2025.08.01 ~ |
-|[심해 心解](https://github.com/bum0w0/2025_SEASONTHON_TEAM_38_BE_1)|꿈 해몽 및 분석 서비스|구름톤 4기 38TEAM|2025.08.29 ~ |
 
 
 <br>
