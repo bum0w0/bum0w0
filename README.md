@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=29&pause=1000&color=37FFAD&background=FFFFFF00&width=435&lines=Hello+JinBeom's+Github)](https://git.io/typing-svg)
 
-<a href="https://github.com/bum0w0">
+<a href="https://linktr.ee/yoonmrch_official" target="_blank" rel="noopener noreferrer">
   <img src="MRCH.svg" align="right" height="360" style="margin-left:10px;">
 </a>
 
